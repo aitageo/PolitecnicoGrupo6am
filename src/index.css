@@ -1,0 +1,4 @@
+/*Esto le dice a mi proyecto que voy a usar TailwindCss*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
