@@ -2,4 +2,8 @@ aitageo
 Alfonso
 arturito
 jeisson
+<<<<<<< HEAD
 Stiven
+=======
+danna
+>>>>>>> danna
