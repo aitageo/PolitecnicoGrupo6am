@@ -1,0 +1,14 @@
+aitageo
+Alfonso
+arturito
+<<<<<<< HEAD
+jeisson
+<<<<<<< HEAD
+Stiven
+=======
+danna
+>>>>>>> danna
+=======
+harold
+>>>>>>> harold
+Daniela
